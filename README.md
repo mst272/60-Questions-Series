@@ -14,6 +14,7 @@ This is a Pandas exercise to help you use Pandas faster.
 
 ##  100-datasets
 
-## 100-pytorch
- 根据官方 tutorials而来
+## 60-pytorch
+ 参考官方tutorials，做了些需修改，更适合新手且中文。可以说做完这60题基本可以胜任任何pytorch框架的任务，因为整体
+都是大同小异的。
  
